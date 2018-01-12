@@ -2,7 +2,7 @@ var name = "Susan"
 var height = "74"
 
 if (name === "Susan") {
-  console.log("The name is Susan");
+  console.log("Name match found!");
 } else {
   console.log("Sorry, the name doesn't match!");
 }
